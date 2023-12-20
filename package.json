@@ -1,5 +1,5 @@
 {
-  "name": "react-native-calendar-picker",
+  "name": "rn-custom-calendar-picker",
   "version": "7.1.4",
   "description": "Calendar Picker Component for React Native",
   "engines": {
