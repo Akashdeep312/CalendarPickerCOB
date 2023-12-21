@@ -248,7 +248,7 @@ export default class DaysGridView extends Component {
           <Text style={styles.monthHeaderMainText}>
             {Utils.MONTHS[this.props?.month]}
           </Text>
-          <Text styles={styles.yearHeaderMainText}> {this.props.year}</Text>
+          <Text style={styles.yearHeaderMainText}> {this.props.year}</Text>
         </View>
         {renderedDaysGrid}
       </View>
